@@ -112,6 +112,45 @@
   color: #737272;
 }
 
+/* What I do in next six month  */
+
+.future-goals {
+  width: 1530px;
+}
+.goals-title {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+.future-goals-section {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.goal-first-part {
+  margin-left: 30px;
+}
+.goals-list {
+  display: flex;
+}
+.goals-list img {
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+}
+.goals-container {
+  display: flex;
+  margin: 10px;
+}
+.goal {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 50px;
+  color: #535252;
+
+}
+
 /* linear gradient image style */
 .linear-section {
   padding: 120px 230px;
