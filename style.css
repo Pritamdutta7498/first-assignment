@@ -4,15 +4,14 @@
 }
 /* header style */
 
-.header {
-  position: relative;
+.header-bg-image {
   background-color: #1d1c1c36;
   width: 1530px;
-  height: 760px;
+  height: 809px;
+  background-repeat: no-repeat;
   background-image: url("./images/banner/banner2.png");
 }
 .header-part {
-  position: relative;
   height: 500px;
   width: 550px;
   text-align: right;
