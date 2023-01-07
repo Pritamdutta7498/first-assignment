@@ -133,8 +133,9 @@
 }
 .goals-list {
   display: flex;
+  list-style-type: none;
 }
-.goals-list img {
+.goals-container img {
   height: 100px;
   width: 100px;
   border-radius: 20px;
