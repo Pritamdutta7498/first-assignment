@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+/* header style */
+
+.header {
+  position: relative;
+  background-color: #1d1c1c36;
+  width: 1530px;
+  height: 760px;
+  background-image: url("./images/banner/banner2.png");
+}
+.header-part {
+  position: relative;
+  height: 500px;
+  width: 550px;
+  text-align: right;
+  margin: 0 0 auto auto;
+  padding:200px;
+}
+.header-title {
+  font-size: 55px;
+  font-weight: 800;
+}
+.header-para {
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #444343;
+}
+.btn {
+  margin-top: 32px;
+  width: 160px;
+  height: 64px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #f15b22;
+}
+
+/* My failures section */
+
+.failure{
+
+}
+.my-image{
+
+}
+.my-story{
+
+}
+.story-title{
+
+}
+.story-para{
+
+}
+.story-list{
+
+}
